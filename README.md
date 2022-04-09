@@ -1,6 +1,6 @@
 # Door-Locker-System
 
-![[Door Locker System Block Diagram]]()
+![[Door Locker System Block Diagram]](https://github.com/khaledmust/Door-Locker-System/blob/main/DOOR_LOCKER_SYSTEM_DIAGRAM.png)
 
 # Outline of the project
 
